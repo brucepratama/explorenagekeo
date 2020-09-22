@@ -6,8 +6,8 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
   <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" />
 </p>
 
-## [Live Demo](https://github.com/brucepratama/ceritakebencanaan)
-- The map is hosted by GitHub and can be found at https://github.com/brucepratama/ceritakebencanaan
+## [Live Demo](https://brucepratama.github.io/ceritakebencanaan/)
+- The map is hosted by GitHub and can be found at https://brucepratama.github.io/ceritakebencanaan/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1LiZGbyVEUnUo6eeqj-ChXUW_FEk27JazO7LaJoetAPM/edit#gid=290071338
 
 ## Create Your Own
