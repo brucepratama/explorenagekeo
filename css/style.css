@@ -26,9 +26,9 @@ body {
   padding: 0;
   width: 100%;
   background-color: white;
-  opacity: 0.3;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
+  opacity: 0.3;
   overflow-y: scroll;
   overflow-x: hidden;
 }
