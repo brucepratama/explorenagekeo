@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: BurlyWood;
+  background-color: White;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -105,10 +105,10 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: BurlyWood;
+  color: Grey;
 }
 a.source:visited {
-  color: BurlyWood;
+  color: Grey;
 }
 
 .description {
