@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: White;
+  background-color: rgba(248, 248, 255, 0.5);
   width: 100vw;
   z-index: 100;
   margin: 0;
