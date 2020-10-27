@@ -25,7 +25,8 @@ body {
 #contents {
   padding: 0;
   width: 100%;
-  background-color: rgba(248, 248, 255, 0.5);
+  background-color: white;
+  opacity: 0.3;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
