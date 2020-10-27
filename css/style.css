@@ -105,10 +105,10 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: BurlyWood;
 }
 a.source:visited {
-  color: grey;
+  color: BurlyWood;
 }
 
 .description {
