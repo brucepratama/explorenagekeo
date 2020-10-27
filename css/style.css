@@ -28,7 +28,7 @@ body {
   background-color: rgba(248, 248, 255, 0.5);
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
-  overflow-y: scroll;
+  overflow-y: hidden;
   overflow-x: hidden;
 }
 
@@ -161,7 +161,7 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: #333;
+  color: rgba(248, 248, 255, 1)
 }
 
 /* Storymap title & subtitle */
