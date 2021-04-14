@@ -28,8 +28,7 @@ body {
   background-color: white;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
-  opacity: 0.1;
-  overflow-y: visible;
+  overflow-y: scroll;
   overflow-x: hidden;
 }
 
@@ -51,7 +50,6 @@ body {
   top: 203px;
   background-color: white
   width: 50vw;
-  opacity: 0.3;
   z-index: 100;
   margin: 0;
   padding: 0;
