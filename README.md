@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## [Live Demo](https://brucepratama.github.io/ceritakebencanaan/)
-- The map is hosted by GitHub and can be found at https://brucepratama.github.io/ceritakebencanaan/
+- The map is hosted by GitHub and can be found at  https://brucepratama.github.io/explorenagekeo/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Gz8mkTJTWSS2EMF2QqSlcV2HzGM7yCbmj-OCgXyye9Y/edit#gid=0
 
 ## Create Your Own
