@@ -159,13 +159,14 @@ a.source:visited {
   padding: 5px 0;
   text-align: center;
   opacity: 0.3;
-  color: black;
+  color: white
 }
 
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
   font-size: 1.35em;
+  color: black;
 }
 
 h2 {
