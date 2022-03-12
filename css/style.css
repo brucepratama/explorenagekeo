@@ -24,7 +24,7 @@ body {
 
 #contents {
   padding: 0;
-  width: 100%;
+  width: 50%;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
@@ -110,7 +110,7 @@ a.source:visited {
 }
 
 .description {
-  margin: 10px;
+  margin: 20px;
   text-align: left;
   font-size: 11pt;
   padding: 20px;
